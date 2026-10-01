@@ -282,7 +282,7 @@ let terminal_state : game_state =
   ; decision =
       Winner
         { player = P2
-        ; p1_score = 30
+        ; p1_score = 26
         ; p2_score = 8
         }
   }
